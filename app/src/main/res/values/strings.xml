@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">App1</string>
+
+    <!-- Page home-->
+    <string name="home_page_title">My App</string>
+    <string name="home_page_name">Nom</string>
+    <string name="home_page_description">description</string>
+    <string name="add_mage">Add Image</string>
+
+    <string name="image_name_input">Url image</string>
+    <string name="image_user_input">Url user image</string>
+    <string name="image_user_name_input">Nom</string>
+    <string name="add_image_button">Add</string>
+    <!--popup-->
+    <string name="pop_user_name">Name</string>
+    <string name="pop_user_like">Likes</string>
+    <string name="pop_image_description">Description</string>
+
+
+
+
+
+</resources>
